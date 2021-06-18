@@ -1,2 +1,2 @@
-# sptl-tech.github.io
+# dmahra.github.io
 Personal Site
